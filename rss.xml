@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Baris' Grid]]></title>
+        <description><![CDATA[Baris' Grid]]></description>
+        <link>https://thegrid.ai/baris/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 13 Oct 2015 06:04:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/baris/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andy Rubin, 'Father' of Android, on China, AI and the Next Wave of Computing (Full Video)]]></title>
+            <description><![CDATA[<article><h1>Andy Rubin, 'Father' of Android, on China, AI and the Next Wave of Computing (Full Video)</h1><p>Asa Mathat Andy Rubin created the most popular mobile operating system in the world, went to work for Google, left Google and then founded his own startup incubator. What does he think comes next for mobile? Onstage at the Code/Mobile conference at The Ritz-Carlton in Half Moon Bay, Calif., he shared some of the ideas he thinks could spark "10 more Androids."</p><img src="https://recodetech.files.wordpress.com/2015/10/asa_3549.jpg?quality=80&strip=info&w=640"></article>]]></description>
+            <link>http://recode.net/2015/10/10/andy-rubin-father-of-android-on-china-ai-and-the-next-wave-of-computing-full-video/</link>
+            <guid isPermaLink="false">bae074c1-19d5-428d-ad38-d1e6411ad344</guid>
+            <pubDate>Tue, 13 Oct 2015 06:03:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>What is this????</p></article>]]></description>
+            <link>https://thegrid.ai/baris/test/index.html</link>
+            <guid isPermaLink="false">5a6da832-8f01-4034-824c-c024d4c0912f</guid>
+            <pubDate>Tue, 13 Oct 2015 05:59:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
